@@ -1,8 +1,7 @@
 {
 "storeHouse":
 [
-"sourceName":"抖音搜索【千方百纪】","sourceUrl":"https://raw.iqiq.io/QFBJ/TV/main/B/DY
-"},
+"sourceName":"抖音搜索【千方百纪】","sourceUrl":"https://raw.iqiq.io/QFBJ/TV/main/B/DY"},
 {
 {"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
