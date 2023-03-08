@@ -3,13 +3,16 @@
     "urls": [
         {
             "url": "https://raw.iqiq.io/QFBJ/ZY/main/TV",
-            "name": "🐭千方百纪专用"
+            "name": "🎵千方百纪专用"
         },
-
+        {
+            "url": "https://raw.iqiq.io/QFBJ/ZY/main/TV",
+            "name": "🐭千方百纪备用"
+        },
         {
             "url": "https://raw.iqiq.io/QFBJ/ZY/main/AL",
             "name": "🐮阿里专用"
-        },
+        },      
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🐯多多路线"
